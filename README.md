@@ -19,7 +19,7 @@ Created by **Jason Abi Chebli**
 [Normalization](https://github.com/jabichebli/libraryDatabase/blob/main/rcl_normalisation.pdf)
 
 ## Logical Model
-<div style="text-align: justify;"> After completing the conceptual model and normalization, I proceeded to design the logical model, which provides a more detailed representation of the data relationships and constraints. This model ensures that all relations are in <strong>3NF</strong>strong>, defining candidate keys, ensuring data integrity, and aligning with business rules. The logical model forms the blueprint for the physical database.  </div>
+<div style="text-align: justify;"> After completing the conceptual model and normalization, I proceeded to design the logical model, which provides a more detailed representation of the data relationships and constraints. This model ensures that all relations are in <strong>3NF</strong>, defining candidate keys, ensuring data integrity, and aligning with business rules. The logical model forms the blueprint for the physical database.  </div>
 [Logical Model](https://github.com/jabichebli/libraryDatabase/blob/main/rcl_logical.pdf)
 
 ## Oracle SQL
