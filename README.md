@@ -15,11 +15,11 @@ Created by **Jason Abi Chebli**
 [Assumptions](https://github.com/jabichebli/libraryDatabase/blob/main/rcl_assumptions.pdf)
 
 ## Database Normalisation
-<div style="text-align: justify;">  To ensure the integrity and efficiency of the database, I performed data normalization, moving through the stages of **UNF**, **1NF**, **2NF**, and **3NF**. This process eliminated redundancy and ensured that each data attribute was appropriately linked to the correct entities. The normalization process was critical in creating a solid foundation for the subsequent design steps.  </div>
+<div style="text-align: justify;">  To ensure the integrity and efficiency of the database, I performed data normalization, moving through the stages of <strong>UNF</strong>, <strong>1NF</strong>, <strong>2NF</strong>, and <strong>3NF</strong>. This process eliminated redundancy and ensured that each data attribute was appropriately linked to the correct entities. The normalization process was critical in creating a solid foundation for the subsequent design steps.  </div>
 [Normalization](https://github.com/jabichebli/libraryDatabase/blob/main/rcl_normalisation.pdf)
 
 ## Logical Model
-<div style="text-align: justify;"> After completing the conceptual model and normalization, I proceeded to design the logical model, which provides a more detailed representation of the data relationships and constraints. This model ensures that all relations are in **3NF**, defining candidate keys, ensuring data integrity, and aligning with business rules. The logical model forms the blueprint for the physical database.  </div>
+<div style="text-align: justify;"> After completing the conceptual model and normalization, I proceeded to design the logical model, which provides a more detailed representation of the data relationships and constraints. This model ensures that all relations are in <strong>3NF</strong>strong>, defining candidate keys, ensuring data integrity, and aligning with business rules. The logical model forms the blueprint for the physical database.  </div>
 [Logical Model](https://github.com/jabichebli/libraryDatabase/blob/main/rcl_logical.pdf)
 
 ## Oracle SQL
