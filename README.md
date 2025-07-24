@@ -38,4 +38,4 @@ Created by **Jason Abi Chebli**
 [Schema Output](https://github.com/jabichebli/libraryDatabase/blob/main/rcl_schema_output.txt)
 
 ## Feedback
-If you have any feedback, suggestions, or questions about the database developed, feel free to [contact me](https://jabichebli.github.io/jabichebli/contact.html). Your input is valuable and will help improve my understanding of database design and development.
+If you have any feedback, suggestions, or questions about the database developed, feel free to [contact me](https://jabichebli.github.io/jabichebli/contact/). Your input is valuable and will help improve my understanding of database design and development.
